@@ -2,7 +2,7 @@
 function custom_post_type_registration() {
     $labels = array(
         'name'               => 'Кастомные Записи',
-        'singular_name'      => 'Моя Запись',
+        'singular_name'      => 'кастомная Запись',
         'menu_name'          => 'Кастомные Записи',
         'add_new'            => 'Добавить новую',
         'add_new_item'       => 'Добавить новую запись',
