@@ -44,7 +44,7 @@ function custom_post_type_registration() {
 
 add_action('init', 'custom_post_type_registration');
 
-// Пример регистрация новой таксономии
+// Пример регистрации новой таксономии
 function custom_taxonomy() {
     $labels = array(
         'name'                       => 'Кастомная таксономия',
